@@ -1,0 +1,24 @@
+main div {
+    margin: 0; /* 要素の外側の余白を0に定義 */
+    padding: 0; /* 要素の内側の余白を0に定義 */
+  }
+  
+  
+  .left {
+  
+    float: left;
+    height: 480px; /* 要素の縦幅を50%に定義 */
+    width: 48%; /* 要素の横幅を50%に定義 */
+    background-color: #aaa; /* 視覚化のための背景色 */
+  
+  }
+  
+  .right {
+  
+    float: right;
+    height: 240px; /* 要素の縦幅を50%に定義 */
+    width: 48%; /* 要素の横幅を50%に定義 */
+  
+    background-color: #ddd; /* 視覚化のための背景色 */
+  
+  }
